@@ -1,5 +1,5 @@
 # Registration-Form
-Project Registration Form
+
 This is a simple project registration form implemented using Bootstrap for the front-end design and Servlet for the back-end connectivity. The project allows users to register their projects by filling out a form with necessary details.
 
 Features
