@@ -19,3 +19,4 @@ Java Development Kit (JDK)
 Apache Tomcat (or any other Java servlet container)
 MySQL (or any other database of your choice)
 IDE (Eclipse, IntelliJ IDEA, etc.) or a text editor
+
