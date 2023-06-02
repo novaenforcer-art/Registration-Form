@@ -1,5 +1,9 @@
 # Registration-Form
 
+
+![image](https://github.com/novaenforcer-art/Registration-Form/assets/82377474/52546a70-5b5c-436e-8820-837b81668f48)
+
+
 This is a simple project registration form implemented using Bootstrap for the front-end design and Servlet for the back-end connectivity. The project allows users to register their projects by filling out a form with necessary details.
 
 Features
